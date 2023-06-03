@@ -6,16 +6,13 @@ import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 import org.mockito.junit.MockitoJUnitRunner;
-
 import java.util.Map;
-
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.*;
-
 @SuppressWarnings("deprecation")
 @RunWith(MockitoJUnitRunner.class)
 @DisplayName("Test UserService")
-public class UserServiceTest {
+public class TestUserService {
     @Mock
     private Map<String, User> userDatabase;
     @InjectMocks

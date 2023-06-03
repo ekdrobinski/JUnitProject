@@ -1,6 +1,5 @@
 package org.example;
 import org.junit.*;
-
 import org.junit.runner.RunWith;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
@@ -12,7 +11,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.*;
 @RunWith(MockitoJUnitRunner.class)
 
-public class BookServiceTest {
+public class TestBookService {
     @Mock
     private List<Book> bookDatabase;
     @InjectMocks
