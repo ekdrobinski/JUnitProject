@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bb48427-802a-4588-9735-0cbf048c898a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/BookServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/UserServiceTest.java" afterDir="false" />
+    <list default="true" id="2bb48427-802a-4588-9735-0cbf048c898a" name="Changes" comment="upload test classes for UserServices,BookServices">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/BookServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/BookServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/UserServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -63,7 +53,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BookServiceTest">
+  <component name="RunManager" selected="JUnit.UserServiceTest">
     <configuration name="BookServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Friday15" />
       <extension name="coverage">
@@ -90,8 +80,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BookServiceTest" />
         <item itemvalue="JUnit.UserServiceTest" />
+        <item itemvalue="JUnit.BookServiceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -103,11 +93,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685745593279</updated>
-      <workItem from="1685745595388" duration="1554000" />
+      <workItem from="1685745595388" duration="6167000" />
     </task>
+    <task id="LOCAL-00001" summary="upload test classes for UserServices,BookServices">
+      <created>1685749082132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685749082132</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upload test classes for UserServices,BookServices" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload test classes for UserServices,BookServices" />
   </component>
 </project>
